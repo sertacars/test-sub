@@ -1,0 +1,122 @@
+1
+00:00:00,060 --> 00:00:05,873
+{\an9}"KASABA DOKTORU"
+
+2
+00:00:00,200 --> 00:00:01,560
+-Doctor...
+-Can you do it?
+
+3
+00:00:01,640 --> 00:00:03,680
+There is a patient who came here
+before these patients...
+
+4
+00:00:03,760 --> 00:00:05,840
+...with a COPD history, suffering
+from shortness of breath...
+
+5
+00:00:05,920 --> 00:00:08,680
+{\n8}...showing indications of SIRS,
+highly possible pneumonia.
+
+6
+00:00:06,560 --> 00:00:12,560
+{\n3}<font color="Yellow">SIRS: BODILY REACTION
+TO THE INFECTION INJURIES.</font>
+
+7
+00:00:08,760 --> 00:00:10,040
+{\a8}Did you check her vitals?
+
+8
+00:00:10,120 --> 00:00:12,120
+{\an8}It is 72%, pretty stable,
+but she has a COPD history...
+
+9
+00:00:12,200 --> 00:00:14,160
+{\an8}Then do your job!
+We're in the ER right now!
+
+10
+00:00:12,645 --> 00:00:14,200
+"KASABA DOKTORU"
+
+11
+00:00:14,200 --> 00:00:21,080
+{\an9}<font color="Yellow">"KASABA DOKTORU"</font>
+
+12
+00:00:14,240 --> 00:00:16,680
+We should check her chest,
+or check her blood gas at least.
+
+13
+00:00:16,760 --> 00:00:18,840
+Do you know how to read?
+What does it say there? Emergency.
+
+14
+00:00:18,920 --> 00:00:20,920
+Look, his BP is going down!
+Whose case is more urgent?
+
+15
+00:00:21,280 --> 00:00:23,680
+{\an8}She might have sepsis,
+is this not urgent?
+
+16
+00:00:23,440 --> 00:00:29,440
+{\an6}<font color="Yellow">SEPSIS: BLOOD POISONING.</font>
+
+17
+00:00:23,760 --> 00:00:27,160
+{\an8}If you don't do what you're told,
+don't waste my time. Get out!
+
+18
+00:00:27,240 --> 00:00:29,280
+{\an8}You're ignoring the danger
+right under your nose!
+
+19
+00:00:31,596 --> 00:00:45,833
+{\an6}<font color="#ff0000">"KASABA DOKTORU"</font>
+
+20
+00:00:31,880 --> 00:00:33,760
+Okay. First, calm down.
+
+21
+00:00:33,840 --> 00:00:39,120
+{\an8}Do a blood ultrasound
+in case of hemoperitoneum.
+
+22
+00:00:35,240 --> 00:00:41,240
+{\an3}<font color="Yellow">HEMOPERITONEUM:
+GASTRIC BLEEDING.</font>
+
+23
+00:00:36,960 --> 00:00:39,120
+{\an8}Then, stabilize his vitals,
+and wait for me.
+
+24
+00:00:39,200 --> 00:00:41,960
+{\an8}Don't move the iron rod.
+Do you hear me?
+
+25
+00:00:42,160 --> 00:00:43,840
+Don't you dare!
+I'll remove it.
+
+26
+00:00:44,000 --> 00:00:45,640
+Okay, sir. Understood.
+
