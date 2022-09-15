@@ -1,0 +1,51 @@
+[Script Info]
+Title: <untitled>
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+[v4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000080FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,0
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.620,0:00:23.210,Default,,0,0,0,,{\c&HFF&} Baby, last night was hands down
+Dialogue: 0,0:00:23.310,0:00:25.810,Default,,0,0,0,,One of the best nights
+Dialogue: 0,0:00:26.320,0:00:28.620,Default,,0,0,0,,That I’ve had no doubt
+Dialogue: 0,0:00:29.100,0:00:30.700,Default,,0,0,0,,Between the bottle of wine
+Dialogue: 0,0:00:30.810,0:00:34.610,Default,,0,0,0,,And the look in your eyes and the Marvin Gaye
+Dialogue: 0,0:00:35.00,0:00:40.300,Default,,0,0,0,,Then we danced in the dark under September stars in the pourin’ rain
+Dialogue: 0,0:00:40.800,0:00:46.300,Default,,0,0,0,,And I know that I can’t ever tell you enough
+Dialogue: 0,0:00:46.410,0:00:52.210,Default,,0,0,0,,That all I need in this life is your crazy love
+Dialogue: 0,0:00:52.320,0:00:57.620,Default,,0,0,0,,If I never get to see the Northern lights
+Dialogue: 0,0:00:58.20,0:01:03.420,Default,,0,0,0,,Or if I never get to see the Eiffel Tower at night
+Dialogue: 0,0:01:03.910,0:01:09.210,Default,,0,0,0,,Oh, if all I got is your hand in my hand
+Dialogue: 0,0:01:09.600,0:01:15.200,Default,,0,0,0,,Baby, I could die a happy man
+Dialogue: 0,0:01:19.410,0:01:21.110,Default,,0,0,0,,Happy man, baby
+Dialogue: 0,0:01:26.810,0:01:32.350,Default,,0,0,0,,Baby, that red dress brings me to my knees
+Dialogue: 0,0:01:32.400,0:01:38.200,Default,,0,0,0,,Oh, but that black dress makes it hard to breathe
+Dialogue: 0,0:01:38.720,0:01:40.220,Default,,0,0,0,,You’re a saint, you’re a Goddess,
+Dialogue: 0,0:01:40.310,0:01:41.710,Default,,0,0,0,,The cutest, the hottest,
+Dialogue: 0,0:01:41.810,0:01:43.910,Default,,0,0,0,,A masterpiece
+Dialogue: 0,0:01:44.400,0:01:45.700,Default,,0,0,0,,It’s too good to be true,
+Dialogue: 0,0:01:45.800,0:01:47.400,Default,,0,0,0,,Nothing better than you
+Dialogue: 0,0:01:47.510,0:01:50.110,Default,,0,0,0,,In my wildest dreams
+Dialogue: 0,0:01:50.310,0:01:55.310,Default,,0,0,0,,And I know that I can’t ever tell you enough
+Dialogue: 0,0:01:55.920,0:02:01.720,Default,,0,0,0,,That all I need in this life is your crazy love
+Dialogue: 0,0:02:01.810,0:02:07.210,Default,,0,0,0,,If I never get to see the Northern lights
+Dialogue: 0,0:02:07.420,0:02:12.810,Default,,0,0,0,,Or if I never get to see the Eiffel Tower at night
+Dialogue: 0,0:02:13.420,0:02:18.520,Default,,0,0,0,,Oh, if all I got is your hand in my hand
+Dialogue: 0,0:02:19.10,0:02:26.10,Default,,0,0,0,,Baby, I could die a happy man, yeah
+Dialogue: 0,0:02:36.410,0:02:39.310,Default,,0,0,0,,I don’t need no vacation,
+Dialogue: 0,0:02:39.400,0:02:42.00,Default,,0,0,0,,No fancy destination
+Dialogue: 0,0:02:42.110,0:02:46.710,Default,,0,0,0,,Baby, you’re my great escape
+Dialogue: 0,0:02:47.920,0:02:50.550,Default,,0,0,0,,We could stay at home,
+Dialogue: 0,0:02:50.600,0:02:53.200,Default,,0,0,0,,Listen to the radio
+Dialogue: 0,0:02:54.100,0:02:58.100,Default,,0,0,0,,Or dance around the fireplace
+Dialogue: 0,0:02:59.510,0:03:04.910,Default,,0,0,0,,And if I never get to build my mansion in Georgia
+Dialogue: 0,0:03:05.210,0:03:10.910,Default,,0,0,0,,Or drive a sports car up the coast of California
+Dialogue: 0,0:03:11.100,0:03:16.550,Default,,0,0,0,,Oh, if all I got is your hand in my hand
+Dialogue: 0,0:03:16.600,0:03:22.400,Default,,0,0,0,,Baby, I could die a happy man
+Dialogue: 0,0:03:22.420,0:03:28.520,Default,,0,0,0,,Baby, I could die a happy man
+Dialogue: 0,0:03:28.610,0:03:32.710,Default,,0,0,0,,Oh, I could die a happy man
+Dialogue: 0,0:03:33.710,0:03:37.110,Default,,0,0,0,,You know I could girl
+Dialogue: 0,0:03:37.810,0:03:41.610,Default,,0,0,0,,I could die, I could die a happy man
